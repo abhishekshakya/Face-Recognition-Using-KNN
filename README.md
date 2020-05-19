@@ -1,4 +1,4 @@
-# Face-Recognition-Using-KNN
+# Face-Recognition-Using-KNN \n
 This repo uses open-cv 'Haarcascade frontalface' xml to detect face and then recognizes it using over given dataset using KNN algorithm
 
 In order to use this:
